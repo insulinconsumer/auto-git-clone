@@ -1,0 +1,6 @@
+1) copied php.ini to new directory where my php was
+2) changed every path for each option in the php.ini from "C:\..." to my new location "W:\..."
+3) made a new empty folder for one of the options and pointed the option path to it because it could be required
+4) copied the apache folder to the php directory
+5) moved additional folder from the extras folder to the new location except the sll folder because it was already there
+6) profit?
